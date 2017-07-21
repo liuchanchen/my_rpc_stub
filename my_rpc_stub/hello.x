@@ -1,0 +1,2 @@
+  var = int;
+  var = char;
